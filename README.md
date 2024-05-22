@@ -1,4 +1,4 @@
-# Musculoskeletal Dataset
+# Musculoskeletal Dataset and Codes
 This dataset contains projections of various clinical musculoskeletal CTs:
 - Atlas axial
 - Atlas sagittal
